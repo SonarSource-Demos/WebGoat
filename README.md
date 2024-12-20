@@ -1,4 +1,5 @@
 # WebGoat 8: A deliberately insecure Web Application
+
 [![Quality Gate Status](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=alert_status&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
 [![Lines of Code](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=ncloc&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
 [![Maintainability Rating](https://nautilus.sonarqube.org/api/project_badges/measure?project=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL&metric=sqale_rating&token=sqb_d43c75759762ea8c9df6231d4ac4a49a2730dc8c)](https://nautilus.sonarqube.org/dashboard?id=SonarSource-Demos_WebGoat_AYjkzfMB60C8KWK2xTVL)
